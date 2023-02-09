@@ -3,6 +3,6 @@ Hi this is Vatsal budding Developer. This is my first website containing persona
 
 Skills i have mastered
 
-1.HTML
-2.Javascript
-3.CSS
+1. HTML
+2. Javascript
+3. CSS
